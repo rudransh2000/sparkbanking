@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667637068136",
+    "project_id": "spark-banking",
+    "storage_bucket": "spark-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667637068136:android:42ab6f15c181ad998a66dd",
+        "android_client_info": {
+          "package_name": "com.example.sparkbanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667637068136-fp1139kv03ce4q31ircsv55d31qnbpvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgZseaz_R0vsXBMWoBb-Odas_WpuwTgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667637068136-fp1139kv03ce4q31ircsv55d31qnbpvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
